@@ -1,0 +1,5 @@
+repositories:
+  linorobot2:
+    type: git
+    url: https://github.com/linorobot/linorobot2.git
+    version: 62540dbf1647961b6c0aea0ec279e57b84080667

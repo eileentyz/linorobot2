@@ -1,0 +1,14 @@
+# Generated colcon artifacts
+/build/
+/install/
+/log/
+
+# External clones are restored using dependencies.repos.
+/src/
+
+# Python and editor files
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+.DS_Store

@@ -1,4 +1,4 @@
-# Moretea · Linorobot2 Workspace
+# Linorobot2 Workspace
 
 ROS 2 simulation, mapping, and navigation experiments built on Linorobot2.
 
@@ -52,6 +52,12 @@ In another prepared terminal, start mapping with RViz:
 
 ```bash
 ros2 launch linorobot2_navigation slam.launch.py sim:=true rviz:=true
+```
+
+or
+
+```bash
+rviz2
 ```
 
 ## Credits

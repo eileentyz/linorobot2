@@ -8,7 +8,7 @@ ROS 2 simulation, mapping, and navigation experiments built on Linorobot2.
 
 ## About this project
 
-This repository holds the Moretea workspace documentation, dependency manifest, and saved maps. Robot packages come from the upstream Linorobot2 project, pinned to an exact commit for reproducible setup.
+This repository holds the linorobot2 workspace documentation, dependency manifest, and saved maps. Robot packages come from the upstream Linorobot2 project, pinned to an exact commit for reproducible setup.
 
 The current workspace includes a saved `moretea_test_map`. Simulation and navigation commands below are based on the checked-out launch files; end-to-end robot behavior has not been validated as part of this documentation update.
 
@@ -62,4 +62,4 @@ rviz2
 
 ## Credits
 
-Robot packages are provided by [Linorobot2](https://github.com/linorobot/linorobot2), created by Juan Miguel Jimeno and contributors, under Apache-2.0. The upstream checkout retains its own license and notices. This repository documents the Moretea workspace and its project-specific assets.
+Robot packages are provided by [Linorobot2](https://github.com/linorobot/linorobot2), created by Juan Miguel Jimeno and contributors, under Apache-2.0. The upstream checkout retains its own license and notices. This repository documents the linorobot2 workspace and its project-specific assets.
